@@ -1,0 +1,35 @@
+body{
+  border: 1px
+  powderblue;
+}
+div{
+  border: 6px
+  black;
+}
+div{
+  background-color:	#F5FFFA;
+}
+h1 {
+  font-family: Futura;
+  text-transform: uppercase;
+}
+.link{
+  font-size: 18px;
+ color: #808080	;
+ strong;
+}
+
+.mytext {
+    height: 31px;
+    width: 400px;
+}
+.mytext1 {
+    height: 40px;
+    width: 190px;
+    background-color: #b0c4de;
+
+}
+.slack1{
+  font-family: Futura;
+ font-size: 15px;
+}
